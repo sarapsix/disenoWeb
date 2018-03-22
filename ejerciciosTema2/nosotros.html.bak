@@ -24,13 +24,14 @@
       <br>
       <br>
       <a href="mailto:sarapsix@gmail.com">E-mail </a> </nav>
+    <br>
     <a name="Nombre"></a>
     <h2> Nombre del autor</h2>
     <p> SarapsiX</p>
     <br>
     <a name="Foto"></a>
     <h2> Foto del autor</h2>
-    <p> <img src="../imagenes/mifoto.png"> </p>
+    <p> <img src="../imagenes/miFoto.png"> </p>
     <br>
     <a name="empresa"></a>
     <h2> Nombre de la empresa</h2>
@@ -38,11 +39,11 @@
     <br>
     <a name="actividad"></a>
     <h2> Actividad de la empresa </h2>
-    <p> Medicina.  </p>
+    <p> Medicina. </p>
     <br>
     <a name="logotipo"></a>
     <h2> Logotipo </h2>
-    <p> <img src="../imagenes/logo_empresa.png">  </p>
+    <p> <img src="../imagenes/logo_empresa.png"> </p>
     <p><br>
     </p>
   </body>
