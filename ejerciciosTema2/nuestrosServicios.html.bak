@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Nuestros Servicios</title>
+    <style>
+    .descripcion{
+      background-color: silver;
+      }
+       #titulo {
+      text-align: center; font-size: x-large;
+      }
+    </style>
+  </head>
+  <body class="descripcion"> <a name="serv"></a>
+    <p id="titulo" title="Servicios"> <strong>Nuestros servicios</strong></p>
+    <hr>
+    <nav> <a href="../index.html">Index </a> <br>
+      <br>
+      <a href="nosotros.html">Nosotros </a> <br>
+      <br>
+      <a href="https://github.com/sarapsix/disenoWeb">Ir a mi repositorio </a>
+      <br>
+      <br>
+      <a href="mailto:sarapsix@gmail.com">E-mail </a>
+      <br>
+      <br>
+    <a href="#Urología">Ir al final</a></nav>
+    <a name="consultas"></a>
+    <h2> Consultas Médicas </h2>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eleifend,
+      quam vel bibendum mollis, lorem ex luctus dui, luctus varius massa velit
+      at massa. Aenean ullamcorper lectus mi. Donec tortor felis, posuere quis
+      massa id, tincidunt consectetur velit. Maecenas luctus libero leo, a
+      luctus leo euismod in. Donec varius, nulla id pellentesque fermentum,
+      sapien lectus egestas turpis, ullamcorper malesuada metus lacus id elit.
+      Aliquam erat volutpat. Vestibulum varius arcu sit amet augue dignissim
+      tristique. </p>
+    <p>Cras ornare tempor iaculis. Vestibulum ante ipsum primis in faucibus orci
+      luctus et ultrices posuere cubilia Curae; Orci varius natoque penatibus et
+      magnis dis parturient montes, nascetur ridiculus mus. Duis sed rutrum
+      metus, vitae elementum elit. Ut magna arcu, venenatis eget semper et,
+      interdum et massa. Donec venenatis lacus massa, quis commodo quam pharetra
+      a. Duis non magna congue, consectetur neque vitae, interdum nibh.
+      Pellentesque ultrices feugiat facilisis. In congue auctor condimentum. </p>
+    <br>
+    <a name="urgencias"></a>
+    <h2> Urgencias </h2>
+    <p> Ut feugiat sit amet orci ut fringilla. Maecenas sit amet augue ut risus
+      accumsan laoreet porttitor ac ex. In hac habitasse platea dictumst. Cras
+      non mattis velit. Donec ut tincidunt erat. Curabitur aliquam augue ex, ac
+      dapibus ex pharetra a. Vivamus in turpis orci. </p>
+    <p> Nullam a justo ut mi cursus interdum ut ac libero. Donec sed velit
+      tempus, sagittis sapien in, posuere ex. Phasellus non diam sit amet nulla
+      tristique laoreet ac ac odio. Vestibulum imperdiet erat quis eros mollis,
+      ac pellentesque ligula mollis. Duis lacinia consectetur nisl vel
+      scelerisque. Nunc quis ante odio. Praesent ac justo nisl. Maecenas quis
+      eros eleifend, ornare sapien vitae, laoreet massa. Donec porta tortor
+      diam, et ultricies est faucibus dictum. Aenean pellentesque aliquam ex
+      quis tristique. </p>
+    <br>
+    <a name="Enfermería"></a>
+    <h2> Enfermería </h2>
+    <p> Nullam fringilla congue semper. Vestibulum odio sapien, mattis sit amet
+      viverra at, bibendum in ipsum. Mauris molestie nisl gravida enim varius
+      accumsan. Nullam nunc libero, sagittis tristique malesuada sed, tempus
+      quis enim. Vivamus ut dolor sed diam dignissim euismod nec eget eros. Nam
+      erat lorem, convallis ac purus sed, posuere sagittis felis. Phasellus quis
+      aliquet nulla. Nam interdum lorem id ligula molestie, nec finibus tortor
+      iaculis. Praesent rhoncus augue magna.</p>
+    <p> Nulla quis odio a neque auctor sodales. Suspendisse sit amet luctus
+      nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      Maecenas ultricies diam consectetur, porta nisi non, bibendum nunc. Sed
+      ultricies tellus urna, at varius ipsum volutpat ultricies. Etiam ut urna
+      at eros facilisis pulvinar. Class aptent taciti sociosqu ad litora
+      torquent per conubia nostra, per inceptos himenaeos. Etiam vitae sagittis
+      elit. Nulla tortor felis, ultricies non vehicula sed, rhoncus sed massa.
+      Nunc eget lectus gravida mauris vehicula euismod. </p>
+    <br>
+    <a name="Radiología"></a>
+    <h2> Radiología </h2>
+    <p> Nunc pretium pellentesque nisl, id tristique ipsum pulvinar vel. Nunc
+      hendrerit at nisi non ornare. Cras sit amet sapien luctus, consectetur
+      urna sit amet, dictum turpis. Praesent dui arcu, fermentum congue ante id,
+      laoreet porta mi. Mauris maximus condimentum diam id gravida. Praesent
+      sapien nisi, fringilla vitae ex vel, molestie laoreet orci. Nullam sed
+      tellus volutpat, maximus nunc sit amet, egestas tortor. Nulla condimentum
+      nisl sit amet magna faucibus, ut hendrerit metus feugiat. Praesent
+      vestibulum sed massa at vestibulum. </p>
+    <p> Morbi vitae metus dictum, semper lorem et, blandit ex. Nunc scelerisque
+      mi eget eros laoreet blandit. Mauris tincidunt purus felis. Proin sed
+      metus sollicitudin, blandit diam nec, auctor urna. Nunc imperdiet dui in
+      metus lacinia, sit amet elementum ligula scelerisque. Proin nec risus
+      vitae orci efficitur elementum. Vestibulum ante ipsum primis in faucibus
+      orci luctus et ultrices posuere cubilia Curae; Proin ac ipsum in mi porta
+      vulputate cursus vitae ligula. Nulla aliquam nulla libero, id efficitur
+      velit tempor a. Nulla a elit libero. Sed egestas pharetra urna, id
+      faucibus est scelerisque quis. Fusce pharetra leo eu tortor hendrerit
+      eleifend. Sed vehicula mi leo, pharetra porta massa posuere vel. </p>
+    <br>
+    <a name="Neurocirugía"></a>
+    <h2> Laboratorio </h2>
+    <p> Maecenas mollis turpis quis enim lacinia porttitor. Nunc a quam in nunc
+      rhoncus rhoncus. In at dictum lorem. Cras at leo et lorem commodo
+      ultricies semper non nulla. Vivamus eu metus metus. Curabitur ut ipsum ut
+      urna finibus tincidunt in ac leo. Nulla facilisi. Vestibulum nec leo
+      congue, tempor massa sit amet, molestie neque. Fusce arcu ligula,
+      pellentesque nec nibh a, ultricies tempus lacus. Nunc et ligula eget
+      mauris gravida lobortis. Fusce eleifend in nulla sit amet convallis. In
+      vestibulum, lectus sed fermentum mattis, nibh dui ullamcorper nisl, a
+      semper nunc nulla eu velit. Sed vitae commodo ligula. </p>
+    <p> Morbi odio neque, accumsan sit amet tempor eget, posuere eget mi.
+      Suspendisse venenatis erat at nunc rhoncus, ut consectetur enim ultricies.
+      Integer et sapien velit. Pellentesque in turpis eget diam pretium
+      tincidunt id sed elit. Lorem ipsum dolor sit amet, consectetur adipiscing
+      elit. Aliquam nec metus lectus. Nunc ante massa, vulputate eu consequat
+      nec, faucibus eget justo. Vivamus ornare nulla id turpis rutrum, a iaculis
+      dolor commodo. Pellentesque non lorem rhoncus ligula hendrerit rhoncus.
+      Fusce commodo nibh quis vulputate cursus. Vivamus eget neque non massa
+      ullamcorper rutrum. Sed consequat quam aliquam, ornare nulla vitae,
+      hendrerit elit. Morbi id pharetra mauris. Sed bibendum, ipsum et commodo
+      porta, dolor mauris vestibulum enim, quis efficitur turpis lorem eu sem. </p>
+    <br>
+    <a name="Neurocirugía"></a>
+    <h2> Alergología </h2>
+    <p> Sed pellentesque nec libero id fringilla. In hac habitasse platea
+      dictumst. Pellentesque auctor, odio eget pharetra congue, enim nisl
+      facilisis urna, in tincidunt tortor lectus sit amet nunc. Nulla eget purus
+      vitae orci congue fringilla id ac mauris. Ut quis ipsum quis metus
+      sagittis ornare. Pellentesque ac ullamcorper nibh. Sed iaculis luctus orci
+      a viverra. Nullam rhoncus metus vel mollis volutpat. </p>
+    <p> Nulla vestibulum magna in interdum aliquam. Donec vehicula dui at mi
+      porttitor, vestibulum ultrices nibh fermentum. Etiam enim tortor, egestas
+      id ornare tempus, lacinia non quam. In pharetra eros est, eget laoreet
+      nulla fringilla nec. Ut fermentum metus magna, vel finibus odio volutpat
+      in. Mauris mollis dignissim orci, eget facilisis eros tristique id.
+      Vivamus nec fermentum purus. Curabitur vitae lectus eget justo pharetra
+      tempor a sed diam. Phasellus eget feugiat eros, vitae ullamcorper sem.
+      Aenean nec vehicula neque, sit amet sagittis eros. Nullam bibendum erat
+      interdum arcu pretium dictum quis non mauris. Nam elit nisi, porttitor ac
+      pharetra eget, cursus pulvinar metus. Nullam id eros ultricies, efficitur
+      nibh et, placerat arcu. </p>
+    <br>
+    <a name="Inmunología"></a>
+    <h2> Inmunología </h2>
+    <p> Mauris vitae mauris arcu. Fusce sed varius dui, pulvinar feugiat tellus.
+      Suspendisse pretium sem vitae libero aliquam, at congue mi dictum. Aliquam
+      blandit metus justo, in porttitor orci faucibus non. Donec rutrum
+      pellentesque urna, non gravida velit. Praesent mollis eleifend faucibus.
+      Pellentesque vel tempor elit. Mauris placerat dui diam, at laoreet lacus
+      imperdiet non. Donec dolor velit, egestas vitae lectus a, semper aliquam
+      nisl. Nunc in libero et lorem ultricies commodo in ac sem. Integer et nisi
+      tortor. Aenean vulputate risus sit amet pharetra elementum. Nam pretium
+      metus elit, laoreet auctor nisi pulvinar vel.</p>
+    <p> Cras porttitor mauris sed felis interdum, vitae tristique eros
+      scelerisque. Nunc gravida metus vel vehicula molestie. Integer eget lectus
+      sit amet arcu laoreet elementum. Quisque leo leo, tempus vitae tristique
+      ac, imperdiet id nisi. Curabitur in tempor dui. Vestibulum sit amet neque
+      neque. Quisque malesuada faucibus nibh non ornare. In ut orci eget felis
+      finibus sodales. Praesent volutpat tortor vel posuere feugiat. Cras at
+      ipsum magna. Quisque porta dui ac dolor blandit porta. Integer scelerisque
+      mi ipsum, ac interdum purus vestibulum quis. Integer enim quam, rhoncus et
+      rutrum eget, vulputate ut erat. Vestibulum iaculis luctus tellus id
+      faucibus. Mauris sagittis, quam eget faucibus vestibulum, urna sem dictum
+      tellus, in rhoncus nisl purus vitae eros.</p>
+    <br>
+    <a name="Neurología"></a>
+    <h2> Neurología </h2>
+    <p> Aliquam et augue vel ex blandit hendrerit. Nullam vehicula eros non
+      egestas mollis. Sed ut sapien et ligula viverra iaculis quis sed felis.
+      Nulla velit dolor, viverra nec ullamcorper in, volutpat id elit. Fusce
+      aliquam odio ac lacus malesuada consequat. Nulla feugiat ante quis turpis
+      fringilla, a feugiat urna tempus. Morbi suscipit dolor velit, et interdum
+      urna ultricies ac. Suspendisse fringilla, lectus non scelerisque aliquam,
+      ante odio fringilla velit, eu facilisis ex leo et nisl. Nunc mi arcu,
+      malesuada et turpis ultricies, rutrum viverra sem. Mauris imperdiet
+      gravida nibh, ut eleifend ipsum sollicitudin a. Mauris eu diam velit. In
+      non augue non neque mattis tristique. Integer ac convallis sapien. Donec
+      lacus nunc, maximus et convallis vel, lacinia in est. </p>
+    <p> Nunc ut dui placerat erat posuere congue sit amet et augue. Suspendisse
+      faucibus venenatis nunc, vel posuere diam ultricies tempus. Sed ac ante ut
+      massa congue egestas quis vel lorem. Phasellus sit amet arcu sit amet est
+      cursus tincidunt vitae eu lorem. Ut metus purus, sagittis sollicitudin
+      purus vitae, lacinia pretium libero. Aliquam vehicula consequat justo, a
+      ultricies nisi. Quisque vitae urna neque. Proin turpis libero, vehicula eu
+      vulputate non, varius et urna. Suspendisse pretium vulputate mauris, in
+      tempus elit consequat in. Aenean aliquam fermentum mauris, ac interdum
+      nisi vehicula at. Nunc non lacinia est. Duis tincidunt justo leo, sit amet
+      hendrerit justo semper id. Ut imperdiet mauris velit, pulvinar pretium
+      lorem sagittis molestie. Etiam vel eleifend nunc. Nulla bibendum lectus id
+      commodo commodo. </p>
+    <br>
+    <a name="Cardiología"></a>
+    <h2> Cardiología </h2>
+    <p> Nam pharetra posuere maximus. Mauris mi velit, congue ut purus ut,
+      sagittis placerat nisl. Morbi convallis massa diam, eu tristique nisl
+      auctor ac. Etiam consectetur aliquet mi quis pellentesque. Quisque vel
+      orci varius ipsum volutpat rutrum sit amet quis nisl. Morbi a vestibulum
+      quam. Nullam id maximus mi. Fusce a rhoncus ipsum. Praesent eu turpis
+      cursus, cursus dui at, bibendum erat. Ut nunc neque, rhoncus nec eros sed,
+      cursus mattis lacus. Donec orci purus, congue eu nisl sit amet,
+      condimentum iaculis ligula. Donec sodales, purus eget interdum ornare, sem
+      sem venenatis orci, et posuere dolor risus vitae sem. Vestibulum eget
+      metus finibus, lobortis purus id, mattis lorem. Praesent ultrices
+      convallis libero at scelerisque. Sed fermentum risus augue, ut fringilla
+      elit sagittis sit amet. Donec bibendum velit lorem, id convallis metus
+      convallis a. </p>
+    <p> Pellentesque habitant morbi tristique senectus et netus et malesuada
+      fames ac turpis egestas. Phasellus mattis massa eu aliquet viverra. Nullam
+      pharetra quam ante, sit amet sollicitudin justo efficitur nec. Maecenas
+      venenatis dignissim tincidunt. Proin a enim augue. Pellentesque eu ligula
+      ac est maximus finibus. Fusce sed interdum tellus. Ut pellentesque
+      vestibulum diam, a vestibulum orci iaculis ac. Vivamus non ipsum sed nisl
+      mattis sodales at tincidunt lorem. Nunc at posuere sem, non elementum
+      turpis. Sed vitae nunc rutrum, cursus mauris in, sodales nulla. In nec
+      turpis quis risus pharetra porta. Ut arcu ante, sodales interdum dui quis,
+      convallis laoreet ante. Pellentesque condimentum lectus vel arcu
+      pellentesque, id luctus nisi rhoncus.</p>
+    <br>
+    <a name="Urología"></a>
+    <h2> Urología </h2>
+    <p> Mauris vitae blandit libero. Fusce elementum, nulla faucibus commodo
+      gravida, est nulla malesuada nisl, vel egestas odio magna eu ex. Maecenas
+      malesuada imperdiet erat eget auctor. Fusce vel dui eget tellus egestas
+      posuere vel vel nisl. Vestibulum lacinia, mi sed venenatis lobortis, magna
+      orci consectetur massa, quis ullamcorper orci nunc vel odio. Praesent
+      rutrum neque quis magna mollis, nec congue quam facilisis. Aenean nec
+      dignissim mi. Donec facilisis commodo mi vel accumsan. Nam consequat sed
+      leo non egestas.</p>
+    <p> Donec felis mauris, fringilla sed massa id, tincidunt viverra justo.
+      Etiam eu tortor malesuada, efficitur neque ac, facilisis risus. Ut ante
+      urna, elementum sed dolor commodo, hendrerit aliquet augue. Nunc interdum
+      purus quis leo varius, nec mollis augue facilisis. Praesent vel mi nulla.
+      Donec ac ligula ligula. Suspendisse potenti. Proin eu pellentesque tellus,
+      ornare ornare risus. Aenean feugiat interdum felis, sed pellentesque
+      turpis fringilla id. Duis tempor eu massa vitae porta. Mauris tempus purus
+      ut lectus ullamcorper commodo id eget metus. </p>
+    <a href="#serv">Ir arriba</a> <br>
+    <p><br>
+    </p>
+    
+  </body>
+</html>
