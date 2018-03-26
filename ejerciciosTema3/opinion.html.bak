@@ -106,12 +106,14 @@
         <h3>Rellena con sinceridad</h3>
         <form method="get" action="https://rawgit.com/cancerbero01/disenoWeb/master/ejerciciosTema3/reOpinion.html" enctype="text/plain">
           <fieldset> <legend>Tus datos de contacto</legend>
-            <div> <label for="nombre">¿Cuál es tu nombre?</label> <input name="nombre" id="nombre" type="text" required autofocus> </div>
+            <div> <label for="nombre">¿Cuál es tu nombre?</label> <input name="nombre" id="nombre" required="" autofocus="" type="text"> </div>
             <div> <label for="mail">¿Cuál es tu dirección de correo
-                electrónico?</label> <input name="email" id="email" type="email" required></div> 
-            <div> <label for="edad">Indica la edad</label> <input name="edad" id="edad" type="number" required></div> 
-            <div> <label for="edad2">Indica la edad</label> <input name="edad2" id="edad2" type="range" required></div> 
-            <div> <label for="telefono">Indica teléfono</label> <input name="telefono" id="telefono" type="tel" required></div> 
+                electrónico?</label> <input name="email" id="email" required="" type="email"></div> 
+            <div> <label for="edad">Indica la edad</label> <input name="edad" id="edad" required="" type="number"></div> 
+            <div> <label for="edad2">Indica la edad</label> <input name="edad2" id="edad2" min="0" max="100" value="0" required="" type="range">
+            
+            </div> 
+            <div> <label for="telefono">Indica teléfono</label> <input name="telefono" id="telefono" required="" type="tel"></div> 
 </fieldset>
           <fieldset> <legend>Elije tu perfil</legend>
             <div>
@@ -156,11 +158,14 @@
        <div> <label for="specs">Si has elegido "Otro", especifica cuál:</label><br>
               <textarea name="specs" id="specs" cols="40" rows="5"></textarea> </div>
           </fieldset>
-          <input name="_next" value="https://rawgit.com/sarapsix/disenoWeb/master/ejerciciosTema3/thanks.html" type="hidden"> <input value="Enviar" type="submit"> </form>
+          <input value="Enviar" type="submit"> </form>
+      
       </article>
-    </section>
+      </section>
 <footer>
       <p>Copyright</p>
-      <p>Social Media Links</p>
+      <p>Curso UA</p>
     </footer>
-</body></html>
+  
+</body>
+  </html>
