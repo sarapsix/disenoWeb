@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Formulario</title>
+  <style>
+      body {
+        width: 80%;    
+        margin: 0 auto;
+        font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;   
+        background: #eee9df url(../images/tile1.png) center top repeat;
+      }
+      h1 {
+        font: 18pt Helvetica,"Helvetica neue", Arial, sans-serif;    
+        text-transform: uppercase;
+        color: #e5b7ad;    
+        padding-top: 30px ;
+      }
+      body > header {    
+        padding:0px;
+        text-align: center;  
+        overflow: auto;
+      }
+      body > header > h1 {
+        float:left;
+        width: 75%;
+        font: 32pt Helvetica,"Helvetica neue", Arial, sans-serif;    
+        text-align: center;
+      }
+      body > header > picture {
+        float:left;
+        width: 20%;
+      }
+      body > header > picture > img {
+        width: 100%;
+      }
+
+      body > section {	
+        float: right;
+        width: 70%;	
+        padding-left: 20px;
+        margin: 0 0 20px 0px;	
+        border-left: 2px dotted #b2a497;
+      }
+      body > section h2 {
+        font: 14pt Helvetica,"Helvetica neue", Arial, sans-serif;	
+        font-weight: lighter;
+        text-transform: uppercase;	color: #493831;
+        padding-bottom: 10px;	
+	margin: 0;
+      }      
+      nav { 
+	text-align: center;		
+      }
+      nav a{
+	padding: 30px;
+      }
+      aside{	
+        float: left;
+        width: 20%;	
+        min-height: 480px;
+        margin: 0 0 20px 0;
+      }
+      footer{	clear:both;
+        height: 100px;	
+        padding: 10px;
+        color:#200f08 ;	
+        background:#ddd3bf;
+          /*Opacity*/
+        filter:alpha(opacity=50); /* msie */  	
+        -moz-opacity: 0.50; /* firefox 1.0 */  
+        -khtml-opacity: 0.50; /* webkit */  	
+        opacity: 0.50; /* css 3 */
+        /*Gradient*/
+        background-image: -moz-linear-gradient(top, #ddd3bf, #bcae91); /* FF3.6 */	
+        background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #ddd3bf),color-stop(1, #bcae91)); /* Saf4+, Chrome *
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorStr='#ddd3bf', EndColorStr='#bcae91');   /* IE6,IE7 */	
+        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#ddd3bf', EndColorStr='#bcae91')"; /* IE8 */
+        /*Round corners*/
+        -moz-border-radius: 12px; /* FF1+ */	-webkit-border-radius: 12px; /* Saf3+, Chrome */
+        border-radius: 12px; /* Opera 10.5, IE 9 */
+      }
+        form div 
+      {
+        padding:10px;
+      }
+      form div > label
+      {
+        display: block;
+        width: 100%;
+      }
+</style>
+</head>
+<body>
+    <header>
+      <h1>BIENVENIDO A LIPSUM MEDICAL!</h1>
+      <picture><img src="../imagenes/logotipo.png" alt="logotipo de mi empresa"></picture>
+    </header>
+    <nav> <a href="../ejerciciosTema2/nosotros.html">Nosotros</a> <a href="../ejerciciosTema2/nuestrosServicios.html">Nuestros Servicios</a> <a href="../index.html">Atrás</a> </nav>
+  
+    <section>
+      <header>
+        <h1>TU OPINIÓN CUENTA</h1>
+      </header>
+      <article>
+        <h3>Rellena con sinceridad</h3>
+        <form method="get" action="https://rawgit.com/cancerbero01/disenoWeb/master/ejerciciosTema3/reOpinion.html" enctype="text/plain">
+          <fieldset> <legend>Tus datos de contacto</legend>
+            <div> <label for="nombre">¿Cuál es tu nombre?</label> <input name="nombre" id="nombre" type="text" required autofocus> </div>
+            <div> <label for="mail">¿Cuál es tu dirección de correo
+                electrónico?</label> <input name="email" id="email" type="email" required></div> 
+            <div> <label for="edad">Indica la edad</label> <input name="edad" id="edad" type="number" required></div> 
+            <div> <label for="edad2">Indica la edad</label> <input name="edad2" id="edad2" type="range" required></div> 
+            <div> <label for="telefono">Indica teléfono</label> <input name="telefono" id="telefono" type="tel" required></div> 
+</fieldset>
+          <fieldset> <legend>Elije tu perfil</legend>
+            <div>
+              <p>¿Qué características deseas poseer?</p>
+              <p> 
+                <input name="deseo" value="rico" id="rico" type="radio"> 
+                <label for="rico">Ser rico</label><br>
+                <input name="deseo" value="famoso" id="famoso" type="radio"> 
+                <label for="famoso">Ser famoso</label><br>
+                <input name="deseo" value="inteligente" id="inteligente" type="radio">
+                <label for="inteligente">Ser aún más inteligente</label><br>
+                <input name="deseo" value="otro" id="otro" type="radio"> 
+                <label for="otro">Otro...</label><br>
+              </p>
+            </div>
+            <div>
+              <p>¿Otra cosa?</p>
+              <p> 
+                <input name="Belleza" id="Belleza" type="checkbox"> 
+                <label for="Belleza">Belleza</label><br>
+                <input name="Habilidad" id="Habilidad" type="checkbox"> 
+                <label for="Habilidad">Habilidad</label><br>
+                <input name="Personalidad" id="Personalidad" type="checkbox">
+                <label for="Personalidad">Personalidad</label><br>
+              </p>
+            </div>
+            <div>
+              <p>¿En que grado?</p>
+              <p>
+                <select>
+                  <optgroup label="Muy poco o Poco">
+	                  <option value="muyPoco">Muy Poco </option>
+  	                <option value="poco">Poco</option>
+                  </optgroup>
+                  <optgroup label="Algo o Mucho">
+	                  <option value="algo">Algo</option>
+  	                <option value="mucho">Mucho</option>
+                  </optgroup>
+                </select>
+              </p>
+</div>
+       <div> <label for="specs">Si has elegido "Otro", especifica cuál:</label><br>
+              <textarea name="specs" id="specs" cols="40" rows="5"></textarea> </div>
+          </fieldset>
+          <input name="_next" value="https://rawgit.com/sarapsix/disenoWeb/master/ejerciciosTema3/thanks.html" type="hidden"> <input value="Enviar" type="submit"> </form>
+      </article>
+    </section>
+<footer>
+      <p>Copyright</p>
+      <p>Social Media Links</p>
+    </footer>
+</body></html>

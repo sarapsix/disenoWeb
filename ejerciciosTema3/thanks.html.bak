@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Formulario</title>
+  <style>
+      body {
+        width: 80%;    
+        margin: 0 auto;
+        font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;   
+        background: #eee9df url(../images/tile1.png) center top repeat;
+      }
+      h1 {
+        font: 18pt Helvetica,"Helvetica neue", Arial, sans-serif;    
+        text-transform: uppercase;
+        color: #e5b7ad;    
+        padding-top: 30px ;
+      }
+      body > header {    
+        padding:0px;
+        text-align: center;  
+        overflow: auto;
+      }
+      body > header > h1 {
+        float:left;
+        width: 75%;
+        font: 32pt Helvetica,"Helvetica neue", Arial, sans-serif;    
+        text-align: center;
+      }
+      body > header > picture {
+        float:left;
+        width: 20%;
+      }
+      body > header > picture > img {
+        width: 100%;
+      }
+
+      body > section {	
+        float: right;
+        width: 70%;	
+        padding-left: 20px;
+        margin: 0 0 20px 0px;	
+        border-left: 2px dotted #b2a497;
+      }
+      body > section h2 {
+        font: 14pt Helvetica,"Helvetica neue", Arial, sans-serif;	
+        font-weight: lighter;
+        text-transform: uppercase;	color: #493831;
+        padding-bottom: 10px;	
+	margin: 0;
+      }      
+      nav { 
+	text-align: center;		
+      }
+      nav a{
+	padding: 30px;
+      }
+      aside{	
+        float: left;
+        width: 20%;	
+        min-height: 480px;
+        margin: 0 0 20px 0;
+      }
+      footer{	clear:both;
+        height: 100px;	
+        padding: 10px;
+        color:#200f08 ;	
+        background:#ddd3bf;
+          /*Opacity*/
+        filter:alpha(opacity=50); /* msie */  	
+        -moz-opacity: 0.50; /* firefox 1.0 */  
+        -khtml-opacity: 0.50; /* webkit */  	
+        opacity: 0.50; /* css 3 */
+        /*Gradient*/
+        background-image: -moz-linear-gradient(top, #ddd3bf, #bcae91); /* FF3.6 */	
+        background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #ddd3bf),color-stop(1, #bcae91)); /* Saf4+, Chrome *
+        filter:  progid:DXImageTransform.Microsoft.gradient(startColorStr='#ddd3bf', EndColorStr='#bcae91');   /* IE6,IE7 */	
+        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#ddd3bf', EndColorStr='#bcae91')"; /* IE8 */
+        /*Round corners*/
+        -moz-border-radius: 12px; /* FF1+ */	-webkit-border-radius: 12px; /* Saf3+, Chrome */
+        border-radius: 12px; /* Opera 10.5, IE 9 */
+      }
+        form div 
+      {
+        padding:10px;
+      }
+      form div > label
+      {
+        display: block;
+        width: 100%;
+      }
+</style>
+</head>
+<body>
+    <header>
+      <h1>BIENVENIDO A LIPSUM MEDICAL!</h1>
+      <picture><img src="../imagenes/logotipo.png" alt="logotipo de mi empresa"></picture>
+    </header>
+    <nav> <a href="../ejerciciosTema2/nosotros.html">Nosotros</a> <a href="../ejerciciosTema2/nuestrosServicios.html">Nuestros Servicios</a> <a href="../index.html">Atrás</a> </nav>
+</body></html>
+<hr>
+<br>
+<h2>
+  ¡Gracias por su colaboración!
+</h2>
