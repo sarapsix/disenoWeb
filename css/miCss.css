@@ -1,0 +1,28 @@
+nav a {
+  border: dotted 1px yellow
+
+}
+a:hover {
+    background-color: yellow;
+}
+body > header{ margin-top: 60px; }
+section article p{
+padding: 2em 1em;
+margin-bottom: 2em;
+background-color: #e9ecef;
+border-radius: 1em;
+}
+h1 {font-family: arial, verdana, sans-serif;}
+h2 {font-family: "Times New Roman", serif; font-style: italic;}
+
+
+h2 {
+  
+    background-color: #FFB400;
+    color: white; text-shadow: black 0.1em 0.1em 0.2em
+}
+
+
+
+
+	
